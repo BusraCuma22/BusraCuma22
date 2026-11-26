@@ -116,6 +116,7 @@ An end-to-end sales data analysis project featuring data cleaning, KPI analysis,
 </p>
 
 
+
 <h2 align="center">💌 Let's Connect</h2>
 
 <p align="center">
@@ -123,20 +124,20 @@ Always open to learning, collaboration, and new opportunities.
 </p>
 
 <p align="center">
-<a href="https://github.com/BusraCuma22">
-<img src="https://img.shields.io/badge/GitHub-A855B7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/BusraCuma22">
+    <img src="https://img.shields.io/badge/GitHub-A855B7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/busra-cuma-546b74223/">
+    <img src="https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-<i>♡ Thanks for visiting my little corner of GitHub ♡</i>
+  <i>♡ Thanks for visiting my little corner of GitHub ♡</i>
 </p>
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2D7,100:A78BFA&height=120&section=footer" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2D7,100:A78BFA&height=120&section=footer" alt="Footer"/>
 </p>
-
-
 
 

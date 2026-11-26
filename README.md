@@ -108,6 +108,18 @@ An end-to-end sales data analysis project featuring data cleaning, KPI analysis,
 <i>✨ Small steps every day lead to big achievements. ✨</i>
 </p>
 
+
+<h2 align="center">🐍 My Contribution Journey</h2>
+
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/BusraCuma22/BusraCuma22/output/github-snake.svg" alt="Contribution Snake"/>
+</p>
+
+<p align="center">
+<i>♡ Every little contribution counts ♡</i>
+</p>
+
 ---
+
 
 

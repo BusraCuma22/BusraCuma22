@@ -32,4 +32,36 @@
 
 <br>
 
+
+<h2 align="center">🌸 Languages & Tools 🌸</h2>
+
+<h3 align="center">📊 Data Analysis</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-E87722?style=for-the-badge"/>
+</p>
+
+<h3 align="center">💻 Programming & Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,html,css,js&theme=light"/>
+</p>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,visualstudio&theme=light"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+</p>
+
+<p align="center">
+<i>🌱 Currently learning and expanding my technical skills.</i>
+</p>
+
 ---
+

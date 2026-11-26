@@ -127,7 +127,7 @@ Always open to learning, collaboration, and new opportunities.
   <a href="https://github.com/BusraCuma22">
     <img src="https://img.shields.io/badge/GitHub-A855B7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/busra-cuma-546b74223/">
+  <a href="https://www.linkedin.com/in/busra-cuma2/">
     <img src="https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

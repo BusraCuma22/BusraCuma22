@@ -63,5 +63,33 @@
 <i>🌱 Currently learning and expanding my technical skills.</i>
 </p>
 
+
+<h2 align="center">🌷 Featured Projects 🌷</h2>
+
+<h3 align="center">📊 Sales Data Analysis | Microsoft Excel</h3>
+
+<p align="center">
+<a href="https://github.com/BusraCuma22/sales-data-analysis-excel">
+<img width="85%" src="https://raw.githubusercontent.com/BusraCuma22/sales-data-analysis-excel/main/%C4%B0mages/dashboard.png" alt="Sales Dashboard"/>
+</a>
+</p>
+
+<p align="center">
+An end-to-end sales data analysis project featuring data cleaning, KPI analysis, interactive dashboards, and business recommendations using a synthetic dataset.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-A855B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard-DB7093?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PivotTables-285C79?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/BusraCuma22/sales-data-analysis-excel">
+<img src="https://img.shields.io/badge/View_Project-A855B7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 ---
 

@@ -12,8 +12,7 @@
 <h2>🌷 A Little About Me</h2>
 
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/BusraCuma22/BusraCuma22/main/Text%20Animation%20Programming%20Humor%20GIF%20by%20Witseed.gif" alt="Coding GIF"/>
-
+<img align="right" width="250" src="https://raw.githubusercontent.com/BusraCuma22/BusraCuma22/main/coding.jpg" alt="Coding illustration"/>
 - 💻 Computer Engineer
 - 📊 Aspiring Data Analyst
 - 🌱 Exploring Data Analytics & Visualization

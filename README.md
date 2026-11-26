@@ -91,5 +91,23 @@ An end-to-end sales data analysis project featuring data cleaning, KPI analysis,
 </a>
 </p>
 
+
+<h2 align="center">🌸 My GitHub Journey 🌸</h2>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BusraCuma22&show_icons=true&hide_border=true&bg_color=FFF5FC&title_color=A855B7&icon_color=DB7093&text_color=684675" alt="GitHub Stats"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusraCuma22&layout=compact&hide_border=true&bg_color=FFF5FC&title_color=A855B7&text_color=684675" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img width="75%" src="https://streak-stats.demolab.com?user=BusraCuma22&hide_border=true&background=FFF5FC&ring=A855B7&fire=DB7093&currStreakLabel=A855B7&sideLabels=684675&dates=684675&currStreakNum=A855B7&sideNums=A855B7" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+<i>✨ Small steps every day lead to big achievements. ✨</i>
+</p>
+
 ---
+
 
